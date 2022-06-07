@@ -113,10 +113,7 @@ void reconcileHelper(int[] a, int[] b) {
 Convert the following figma design to a functioning app: [Figma](https://www.figma.com/file/wD6IpDv4wQqtJaEa5jWAYy/Android-Test-Mocks?node-id=111%3A8). [Playable Prototype](https://www.figma.com/proto/wD6IpDv4wQqtJaEa5jWAYy/Android-Test-Mocks?scaling=min-zoom&page-id=111%3A8&node-id=1204%3A5&starting-point-node-id=1204%3A6)
 
 
-Files are located in a zip file in the git repo
-* You can use any front end framework you choose, but we have a slight preference towards React, Angular, or Vanilla HTML/JS/CSS. However, use whatever framework you are comfortable with.
-* Make it responsive using your best judgement.
-* If you are using a framework, make sure you compile it down to static files and include that alongside your code with the submission.
+Files are located in a zip file in the git repo. Make it responsive using your best judgement.
 
 ### Requirements
 * Create a Android App. The app contains:
