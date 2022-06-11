@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gradient_blue">#FF3856BF</color>
+    <color name="gradient_red">#FFE57E67</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="translucent_white">#E5FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

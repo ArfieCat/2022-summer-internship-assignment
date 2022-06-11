@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sample App</string>
+    <string name="hello_world">Hello World</string>
+    <string name="wow_check_out">Wow! Check out all the cool Java things I can do!</string>
+    <string name="title_image_circle">Collaboration</string>
+    <string name="title_image_square">Certification</string>
+    <string name="title_image_triangle">Construction</string>
+    <string name="title_image_rectangle">Contemplation</string>
+
+</resources>
