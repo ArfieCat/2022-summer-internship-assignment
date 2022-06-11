@@ -15,8 +15,8 @@ class ReconcileArrays
 {
     public static void main(String[] args) 
     {
-		// Test cases go here.
-	}
+	    // Test cases go here.
+    }
 
     /**
      * Approach:
